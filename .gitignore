@@ -1,0 +1,16 @@
+.pio/
+backup/
+*.bin
+*.elf
+*.map
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+.env
+.env.*
+config.json
+config.tmp
+platformio.local.ini
+VERIFICA.md
+docs/images/originals/
